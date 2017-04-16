@@ -1,7 +1,7 @@
 {
     "name": "Deftnerd/LaravelBcoin",
     "type": "library",
-    "description": ":package_description",
+    "description": "Laravel package to interface with the Bcoin full node API",
     "keywords": [
         "Deftnerd",
         "LaravelBcoin"
@@ -10,9 +10,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "DeftNerd",
+            "email": "adam@deftnerd.com",
+            "homepage": "https://deftnerd.com",
             "role": "Developer"
         }
     ],
